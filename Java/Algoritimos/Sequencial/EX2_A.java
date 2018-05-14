@@ -27,6 +27,8 @@ public class EX2_A {
 	    res = (med1 + med2 + med3)/3;
 	    
 	    System.out.println("A média aritmetrica é: " + casas.format(res));
+	    
+	    entrada.close();
 		
 	}
 }

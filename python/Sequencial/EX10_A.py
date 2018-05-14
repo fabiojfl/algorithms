@@ -10,3 +10,4 @@ pi = 3.142
 
 area = float(pi)*(raio * raio)
 print('O tamanho do circulo é: %5.3f' % area)
+
