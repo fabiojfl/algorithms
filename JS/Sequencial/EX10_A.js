@@ -11,4 +11,3 @@ raio = parseFloat(raio)
 circ = (raio * raio) * 3.14
 console.log('A medida do circulo é igual a: '+circ.toFixed(3))
 
-
