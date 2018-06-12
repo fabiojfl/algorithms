@@ -27,5 +27,3 @@ num4 = parseInt(num4);
    		console.log("A ordem decrescente dos números é: "+num3+" - "+num2+" - "+num4+" - "+num1);
 		if (num4 < num1)
 		console.log("A ordem decrescente dos números é: "+num3+" - "+num2+" - "+num1+" - "+num4);
-
-
